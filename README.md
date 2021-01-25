@@ -1,6 +1,6 @@
-# Image Classification with TensorFlow-Slim NASNet
+# Image Classification with TensorFlow-Slim NASNet for MMM'18 VBS data
 
-The NASNet-A model is available as TensorFlow-Slim implementation and can be found in the [research model repository ](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) provided by TensorFlow.
+The NASNet network is available as TensorFlow-Slim implementation and can be found in the [research model repository ](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) provided by TensorFlow.
 
 ### Dependencies & Requirements
 * tensorflow or tensorflow-gpu; tested with 1.11 and installed via ([tensorflow.install.pip](https://www.tensorflow.org/install/pip))
